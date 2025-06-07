@@ -1,5 +1,9 @@
 # enrollment_dash_app.py
 
+# Create dash App: US College Enrollment Trends 2019 - 2023
+# GitHub repository link: https://github.com/linDU99/US-Enrollment2019-2023.git
+
+
 import dash
 from dash import Dash, dcc, html, Output, Input, dash_table  # dcc - Dash Core Components
 import pandas as pd
