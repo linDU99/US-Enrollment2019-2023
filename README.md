@@ -18,7 +18,7 @@ Source: https://nces.ed.gov/ipeds/summarytables
 
 #### Directory Structure:
 1. data: Enrollment data files
-2. notebooks: the Jupyter Notebook files for data exploration and creating the dash App
+2. notebooks: The Jupyter Notebook files for data exploration and creating the dash App
 3. src: The python scripts for creating the dash App
 4. visuals: The image of enrollment dash App 
    
