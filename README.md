@@ -24,7 +24,7 @@ Source: https://nces.ed.gov/ipeds/summarytables
    
 #### Findings: 
 - **Undergraduates:** Overall enrollment decreased continuously from Fall 2019 to Fall 2022. In Fall 2023, enrollment rebounded to approximately the 2020 level.
-- **Graduates:** The total Enrollment increased consistently from Fall 2019 to Fall 2021. Since then, it has fluctuated around 3.2 million students. 
+- **Graduates:** The total enrollment increased consistently from Fall 2019 to Fall 2021. Since then, it has fluctuated around 3.2 million students. 
 - **By Gender:** More than 57% of undergraduates and approximately 61% of graduates were female. Across all institutions (n ≥ 3,838), female enrollment exceeded male enrollment by at least 2.9 million students.
 - **By study status:** Overall, more than 60% of enrolled students were full-time.
   
