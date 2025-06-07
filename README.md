@@ -9,7 +9,8 @@
     - Study status: Full-Time (FT) vs. Part-Time (PT)
 
 ##### Data: 
-The enrollment data are from the Integrated Postsecondary Education Data System (IPEDS) provided by the U.S. National Center for Education Statistics (NCES). Source: https://nces.ed.gov/ipeds/summarytables 
+The enrollment data are from the Integrated Postsecondary Education Data System (IPEDS) provided by the U.S. National Center for Education Statistics (NCES).
+Source: https://nces.ed.gov/ipeds/summarytables 
 - Limited to all Title IV degree-granting institutions in the U.S.: N ≥ 3838
 - The numbers of enrollment are summary data of all institutes included.
 - The enrollments are the fall terms of 2019 o 2023. 
