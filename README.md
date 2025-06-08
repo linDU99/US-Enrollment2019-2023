@@ -12,7 +12,7 @@ The enrollment data are from the Integrated Postsecondary Education Data System 
 Source: https://nces.ed.gov/ipeds/summarytables 
 - Limited to all Title IV degree-granting institutions in the U.S.: N ≥ 3838
 - The numbers of enrollment are summary data of all institutes included.
-- The enrollments are the fall terms of 2019 o 2023. 
+- The enrollments are the fall terms of 2019 to 2023. 
 - Enrollment App: The default model includes the enrollment of all groups. Groups' data can be selected by clicking the checkbox. 
 
 #### Directory Structure:
