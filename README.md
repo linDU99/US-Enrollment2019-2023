@@ -1,7 +1,6 @@
 ## US-Enrollment2019-2023
 ### College enrollment 2019-2023
-#### Purposes:
-- Create an interactive dash application framed from an explanatory perspective, with Plotly Dash
+- Create an interactive dash application framed from an explanatory perspective with Plotly Dash
 - Explore enrollment trends of US degree-granting institutions (colleges, universities, and technical and vocational institutions).
 - Display enrollment changes across groups:
     - Education level: Undergraduate (UG) vs. Graduate (GR)
