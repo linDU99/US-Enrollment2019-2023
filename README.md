@@ -19,7 +19,7 @@ Source: https://nces.ed.gov/ipeds/summarytables
 1. data: The enrollment data files
 2. notebooks: The Jupyter Notebook files for data exploration and creating the dash App
 3. src: The python scripts for creating the dash App
-4. visuals: The image of enrollment dash App 
+4. visual: The image of enrollment dash App 
    
 #### Findings: 
 - **Undergraduates:** Overall enrollment decreased continuously from Fall 2019 to Fall 2022. In Fall 2023, enrollment rebounded to approximately the 2020 level.
