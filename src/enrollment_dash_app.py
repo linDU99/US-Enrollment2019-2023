@@ -1,11 +1,12 @@
 # enrollment_dash_app.py
 
 # Create dash App: US College Enrollment Trends 2019 - 2023
+# Data source: The Integrated Postsecondary Education Data System (IPEDS): https://nces.ed.gov/ipeds/summarytables 
 # GitHub repository link: https://github.com/linDU99/US-Enrollment2019-2023.git
 
 
 import dash
-from dash import Dash, dcc, html, Output, Input, dash_table  # dcc - Dash Core Components
+from dash import Dash, dcc, html, Output, Input, dash_table, callback  # dcc - Dash Core Components
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
